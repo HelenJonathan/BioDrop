@@ -1,0 +1,31 @@
+{
+  "name": "Helen Efebe",
+  "bio": "FullStack Developer | Technical Writer | Open Source Contributor",
+  "stack": "JavaScript | ReactJS | VueJS | NodeJS | PHP | GoLang",
+  "links": [
+    {
+        "name": "Twitter: Follow me",
+        "url": "https://twitter.com/Helenefebe",
+        "icon": "FaTwitter",
+        "color": "#00ACEE"
+    },
+    {
+        "name": "LinkedIn: Let's connect",
+        "url": "https://www.linkedin.com/in/helen-efebe",
+        "icon": "FaLinkedin",
+        "color": "#00ACEE"
+      },
+     {
+        "name": "GitHub: Follow me",
+        "url": "https://github.com/HelenJonathan",
+        "icon": "FaGithub",
+        "color": "#00ACEE"
+      },
+    {
+        "name": "FaceBook: Follow me",
+        "url": "https://web.facebook.com/misshelenefebe",
+        "icon": "FaFacebook",
+        "color": "#00ACEE"
+      },
+  ]
+}
